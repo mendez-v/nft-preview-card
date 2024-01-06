@@ -190,6 +190,13 @@ body {
   transition: transform .3s ease;
 }
 
+.card__title--link:focus-visible,
+.footer__author:focus-visible,
+.attr__link:focus-visible {
+  outline: .15rem dotted currentColor;
+  outline-offset: .2rem;
+  color: var(--clr-2);
+}
 
 @media (hover:hover) {
   .card__title:hover,
@@ -205,4 +212,8 @@ body {
   .attr__link:hover::after {
     transform: scale(0);
   }
+}
+
+.attr__link:focus-visible::after {
+  transform: scale(0);
 }
