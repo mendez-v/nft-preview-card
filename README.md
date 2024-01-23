@@ -32,9 +32,11 @@ Users should be able to:
 
 ## Links
 
-[Live](https://mendez-v.github.io/nft-preview-card/) 👀
+[Live Site](https://mendez-v.github.io/nft-preview-card/) 👀
 
-<!-- [Frontend Mentor](https://your-live-site-url.com) 👀 -->
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-KUIR3h4TNT) 👀
+
+[Challenge Repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## Built with
 
